@@ -1,3 +1,3 @@
-# Proyectos-acad-micos
+# Proyectos-académicos
 Proyectos escolares 
-Licenciaura en Estadística
+Licenciatura en Estadística
